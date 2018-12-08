@@ -17,7 +17,7 @@ See this tweet for more info:
 
     https://twitter.com/Lizzie_OShea/status/1071222470378541056
 
-# Initial Process
+# Process
 
 * Dump below all the questions from the last few of days from various sources
 
@@ -26,6 +26,8 @@ See this tweet for more info:
 * Then merge/sort/filter
 
 * Send them to lawyers
+
+* Tidy up document and find a place to host it
 
 # Questions
 
