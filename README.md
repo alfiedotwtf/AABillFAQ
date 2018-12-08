@@ -16,3 +16,17 @@ at (alfie@alfie.wtf), signal (+61 400 777 227), or Twitter DM (@alfiedotwtf).
 See this tweet for more info:
 
     https://twitter.com/Lizzie_OShea/status/1071222470378541056
+
+# Initial Process
+
+* Dump below all the questions from the last few of days from various sources
+
+* Group them into categories
+
+* Then merge/sort/filter
+
+* Send them to lawyers
+
+# Questions
+
+TODO
