@@ -11,7 +11,7 @@ See this tweet for more info:
 
 Let me emphasise that there are no stupid questions, just stupid policy.
 
-Feel free to ask questions by pull request or leaving a comment here:
+Feel free to ask questions by pull request, or leave a comment here:
 
     https://github.com/alfiedotwtf/AABillFAQ/issues/1
 
