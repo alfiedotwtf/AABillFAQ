@@ -46,8 +46,8 @@ My PGP key is included in this repo.
 * Are any of the following "carriage service provider"s under the
   Telecommunications Act 1997? (This has ramifications under s. 317C)
   * Tor node operators
-	* Operators of servers used for online communication (eg: IRC, SIP, Jabber,
-	  Tox etc)
+  * Operators of servers used for online communication (eg: IRC, SIP, Jabber,
+    Tox etc)
 
 * Is software considered a "...part of the infrastructure of a
   telecommunications network" as per "facility" in the Telecommunications Act
@@ -67,33 +67,33 @@ My PGP key is included in this repo.
 
 * Are any the following considered a designated communications provider as per
   item 4 of s. 317C?
-	* Person running a server instance used to facilitate communication (Eg: IRC
-	  server, Tor node, Tox node, SIP server)
+  * Person running a server instance used to facilitate communication (Eg: IRC
+    server, Tor node, Tox node, SIP server)
   * Website owner or Administrator (Eg: Alfie John of alfie.wtf)
-	* Cryptocurrency 'miner' participating on an online blockchain or another
-	  similar networked ledger technology.
-	* An electronic service provider that has intentionally geo-blocked
-	  Australian users.
+  * Cryptocurrency 'miner' participating on an online blockchain or another
+    similar networked ledger technology.
+  * An electronic service provider that has intentionally geo-blocked
+    Australian users.
   * BitTorrent 'Leacher' or 'Seeder'
 
 * Are any the following considered a designated communications provider as per
   item 6 of s. 317C?
-	* Unincorporated uncontracted volunteer open source developer (or anyone with
-	  commit privileges to a repo)
-	* Unincorporated uncontracted volunteer who personally mirrors software
-	  available for download.
-	* Unincorporated uncontracted volunteer who manages an open source project.
+  * Unincorporated uncontracted volunteer open source developer (or anyone with
+    commit privileges to a repo)
+  * Unincorporated uncontracted volunteer who personally mirrors software
+    available for download.
+  * Unincorporated uncontracted volunteer who manages an open source project.
 
 * Are any building maintenance personnel (eg: HVAC, cleaning crew) of a
-	facility considered a designated communications provider as per item 7 of s.
+  facility considered a designated communications provider as per item 7 of s.
   317C?
 
 * Are any the following considered a designated communications provider as per
   item 8 of s. 317C?
   * SoC (system-on-a-chip) manufacturers (eg: Qualcomm)
   * SIM/smartcard manufacturers (eg: Gemalto)
-	* IC and microcontroller manufacturers (Eg: Texas Instruments,
-	  STMicroelectronics, Intel, fabs)
+  * IC and microcontroller manufacturers (Eg: Texas Instruments,
+    STMicroelectronics, Intel, fabs)
   * Distributors (Eg: RS Components)
   * PCB manufacturers.
 
@@ -111,8 +111,8 @@ My PGP key is included in this repo.
   item 11 of s. 317C?
   * SoC (system-on-a-chip) manufacturers (eg: Qualcomm)
   * SIM/smartcard manufacturers (Eg: Gemalto)
-	* IC and microcontroller manufacturers (Eg: Texas Instruments,
-	  STMicroelectronics, Intel, fabs)
+  * IC and microcontroller manufacturers (Eg: Texas Instruments,
+    STMicroelectronics, Intel, fabs)
   * PCB manufacturers.
   * Distributors (Eg: RS Components)
 
@@ -120,17 +120,17 @@ My PGP key is included in this repo.
   item 12 of s. 317C?
   *  Systems Administrators
   *  Network Administrators
-	*  Certificate Authority/HSM Administrators or anyone else 'installing' a HSM
-	   (Hardware Security Module)
+  *  Certificate Authority/HSM Administrators or anyone else 'installing' a HSM
+     (Hardware Security Module)
     * DNSSEC Administrators?
-	*  Individual person of OEM that is ultimately provisioning company image
-	   onto OEM system (Eg: Dell technician preinstalling a company image before
+  *  Individual person of OEM that is ultimately provisioning company image
+     onto OEM system (Eg: Dell technician preinstalling a company image before
      shipping to said company)
 
 * Are any the following considered a designated communications provider as per
   item 13 of s. 317C?
-	* An end-user, or person assisting end-user, powering on a mobile phone
-	  device (This would have major ramifications)
+  * An end-user, or person assisting end-user, powering on a mobile phone
+    device (This would have major ramifications)
 
 * Are any the following considered a designated communications provider as per
   item 14 of s. 317C?
@@ -145,22 +145,54 @@ My PGP key is included in this repo.
   * Canonical (Producer of Ubuntu operating system fork)
   * RedHat (Sponsor of the Fedora Project, Producer of RedHat)
   * General Dynamics C4 Systems (seL4 microkernel project)
-	* Linux package repository mirror provider (Eg: Debian apt repos, aarnet,
-	  Digital Pacific)
+  * Linux package repository mirror provider (Eg: Debian apt repos, aarnet,
+    Digital Pacific)
 
 * Who determines if a "carrier or provider is capable" as per paragraph 1 of s.
   317ZA?
 
 * Is organising any opposition (protest, sit-in, boycott, promoting
-	alternatives etc.) to this law, after the Bill has been assented, considered
-	a contravention of paragraph 1 of s. 317ZA as per paragraph 2 of the same
+  alternatives etc.) to this law, after the Bill has been assented, considered
+  a contravention of paragraph 1 of s. 317ZA as per paragraph 2 of the same
   section?
 
 * Assuming a piece of software is already highly decentralised and anonymised
   so that particular persons cannot be identified, if a developer designs their
-	software distribution system to ensure they have no control over the channels
+  software distribution system to ensure they have no control over the channels
   particular persons can update their software (Eg: BitTorrent, mirrors, or other
-	broadcast-like technology unlike Google and their Play Store and Apple and
+  broadcast-like technology unlike Google and their Play Store and Apple and
   their Appstore), would that be sufficient enough to ensure the software update
   process is no longer be utilised as an attack-vector against a particular
   person as ordered by a TCN?
+
+* Can employees or contractors be targeted directly to make changes or access
+  systems without going through the company or organisation they work for?
+
+* If an employee or contractor is directly approach to make changes or access
+  systems, are they allowed to tell their supervisors and any assisting staff
+  in order to proceed
+  * If not, what happens if they get caught
+  * If not, how do they notify other staff to not remove the capability
+  * What happens to the people who find changes or unapproved access
+
+* if an individual is directly approached to make changes or access systems of
+  previous employers, what happens if they get caught
+
+* Does the forcing of individuals to modify code or access system go against
+  the Constitution (e.g on just terms)
+
+* Does the bill apply to Australians based overseas
+
+* Do these notices and warrants apply to foreign visitors while traveling
+  to Australia for vacation
+
+* Is it possible that a Notice can be supplied to Certificate Authorities to
+  forged TLS certificates
+
+* Can Notices be issued to source code hosting companies such as BitBucket to
+  serve modified code to targets
+
+* How does this work with companies that are SOX and SOC 2 compliant
+
+* What happens if the Notice or warrant is issued to a company who wants to
+  comply but the employees refuse
