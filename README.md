@@ -20,6 +20,8 @@ at (alfie@alfie.wtf), Signal (+61 400 777 227), or Twitter DM (@alfiedotwtf).
 
 My PGP key is included in this repo.
 
+*NOTE* This is taking a while, so please stay tuned...
+
 # Process
 
 * Dump below all the questions from the last few of days from various sources
@@ -196,3 +198,25 @@ My PGP key is included in this repo.
 
 * What happens if the Notice or warrant is issued to a company who wants to
   comply but the employees refuse
+
+* Can individuals tell anyone like an employeer, colleagues, lawyers if they
+  have been issued a warrant or Notice
+
+* what is the definition of "systemic weakness"
+
+* "A person covered in paragraph (1)(b) may disclose... for the pursose of
+  obtaining legal" how widely can you ask for advice
+
+* What happens when a company cannot comply to a warrant or a Notice because of
+  technical design (i.e don't hold any keys or data)
+
+* Can the government walk up to me, demand I create a backdoor in my work
+  software or access work databases, and I can't tell my employer or client
+
+* What happens if someone finds a vulnerability
+	* and fixes it
+	* and notifies others
+
+* Are warrant and Notice canaries legal
+
+* What are the implications for Open Source software in Australia
