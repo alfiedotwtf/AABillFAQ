@@ -7,6 +7,10 @@ See this tweet for more info:
 
     https://twitter.com/Lizzie_OShea/status/1071222470378541056
 
+## Link to Bill
+
+    https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r6195
+
 ## Asking Questions
 
 Let me emphasise that there are no stupid questions, just stupid policy.
