@@ -220,3 +220,33 @@ My PGP key is included in this repo.
 * Are warrant and Notice canaries legal
 
 * What are the implications for Open Source software in Australia
+
+* Are we able to handle any European data in Australia as it could be a
+  potential violation of GPDR
+
+* When a weakness is discovered, what happens when it's fixed by someone not
+  under a Notice
+
+* What happens when to target a user, we would have to decrypt for all users
+
+* What happens if we do client-side encryption - do we have to modify the
+  decryption to target an individual?
+	* What are the ramifications if we are caught if we can't target the payload
+	  to the individual and so have to serve it to everyone (think CDN)?
+
+* Can you be fired for complying with a warrant or Notice because you
+  undermined your employeer's security
+
+* Can you be fired or be under penalty for complying with a warrant or Notice
+	but it caused a security breach, GDPR breach, or accidently disclosed the
+	actions of the warrant or Notice
+
+* Can warrants and Notices go directly to staff or contractors rather than
+  management/owners
+	* Are direct approaches allowed to let employers, colleagues know
+	* What if they need help from others to get execute the warrant or Notice
+
+* What are the penalites for refusing a warrant, TAR, TAN, or TCN
+	* What if you can't genuinely comply because of external constraints or the
+	  risk of disclosure
+
