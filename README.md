@@ -250,3 +250,10 @@ My PGP key is included in this repo.
 	* What if you can't genuinely comply because of external constraints or the
 	  risk of disclosure
 
+* If we are served with a TCN, TAR, or TAN, is it legal to engage a lawyer, or does the non-discloseure provisions include attorney-client privilege?
+* If I am served a TCN, but the execution of it would breach GDPR or HIPPA, what do I do?
+* If my employment is terminated because I am executing a TCN, do I have legal recourse against the Commonwealth?
+* If I am overseas and get served with a TCN, which would break local laws if executed, what do I do?
+* What is the definition of "whole class of technology" and "target technology"?
+* If served with a TCN, TAR or TAN, how long do we have do comply?
+* Does the execution of a TCN count as forced labour/slavery?
