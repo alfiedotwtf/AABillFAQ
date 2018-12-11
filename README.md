@@ -7,7 +7,7 @@ See this tweet for more info:
 
 * [https://twitter.com/Lizzie_OShea/status/1071222470378541056](https://twitter.com/Lizzie_OShea/status/1071222470378541056)
 
-Here's the link for the bill, as passed by both Houses:
+Here is the link for the bill, as passed by both Houses:
 
 * [https://www.legislation.gov.au/Details/C2018A00148](https://www.legislation.gov.au/Details/C2018A00148)
 
@@ -19,7 +19,7 @@ Feel free to ask questions by pull request, or create an issue here:
 
 * [https://github.com/alfiedotwtf/AABillFAQ/issues/new](https://github.com/alfiedotwtf/AABillFAQ/issues/new)
 
-And if you're uncomfortable asking a question publicly, feel free to email me
+And if you are uncomfortable asking a question publicly, feel free to email me
 at ([alfie@alfie.wtf](mailto:alfie@alfie.wtf)), Signal (+61 400 777 227), or Twitter DM ([alfiedotwtf](https://twitter.com/alfiedotwtf/)).
 
 My PGP key is included in this repo.
@@ -246,10 +246,10 @@ My PGP key is included in this repo.
   obtaining legal" how widely can you ask for advice
 
 * What happens when a company cannot comply to a warrant or a Notice because of
-  technical design (i.e don't hold any keys or data)
+  technical design (i.e do not hold any keys or data)
 
 * Can the government walk up to me, demand I create a backdoor in my work
-  software or access work databases, and I can't tell my employer or client
+  software or access work databases, and I can not tell my employer or client
 
 * What happens if someone finds a vulnerability
 	* and fixes it
@@ -262,14 +262,14 @@ My PGP key is included in this repo.
 * Are we able to handle any European data in Australia as it could be a
   potential violation of GPDR
 
-* When a weakness is discovered, what happens when it's fixed by someone not
+* When a weakness is discovered, what happens when it is fixed by someone not
   under a Notice
 
 * What happens when to target a user, we would have to decrypt for all users
 
 * What happens if we do client-side encryption - do we have to modify the
   decryption to target an individual?
-	* What are the ramifications if we are caught if we can't target the payload
+	* What are the ramifications if we are caught if we can not target the payload
 	  to the individual and so have to serve it to everyone (think CDN)?
 
 * Can you be fired for complying with a warrant or Notice because you
@@ -285,7 +285,7 @@ My PGP key is included in this repo.
 	* What if they need help from others to get execute the warrant or Notice
 
 * What are the penalties for refusing a warrant, TAR, TAN, or TCN
-	* What if you can't genuinely comply because of external constraints or the
+	* What if you can not genuinely comply because of external constraints or the
 	  risk of disclosure
 
 * If we are served with a TCN, TAR, or TAN, is it legal to engage a lawyer, or
@@ -328,7 +328,7 @@ My PGP key is included in this repo.
   a generic all user change vs something that would target one individual
 
 * will historical TCNs be disclosed? Post-facto review is standard in the
-  industry, especially when things aren't 100% successful.
+  industry, especially when things are not 100% successful.
 
 * Are Australian's overseas subject to these notices?
 
@@ -349,7 +349,7 @@ My PGP key is included in this repo.
 	  reporting/discussing non-AAbill backdoor
 
 * How will this interact with the consumer law?
-	* If we sell a product labelled as secure and we're forced to add a flaw into
+	* If we sell a product labelled as secure and we are forced to add a flaw into
 		that security does the customer have a right to refund under the consumer
     law as unfit for purpose?
 	* Could we then have cause for the government to cover any financial losses
