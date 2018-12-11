@@ -185,7 +185,7 @@ My PGP key is included in this repo.
   * Canonical (Producer of Ubuntu operating system fork)
   * RedHat (Sponsor of the Fedora Project, Producer of RedHat)
   * General Dynamics C4 Systems (seL4 microkernel project)
-  * Linux package repository mirror provider (e.g.: Debian apt repos, aarnet,
+  * Linux package repository mirror provider (e.g.: Debian apt repos, AARNet,
     Digital Pacific)
 
 * Who determines if a "carrier or provider is capable" as per paragraph 1 of s.
