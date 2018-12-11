@@ -297,3 +297,10 @@ My PGP key is included in this repo.
   industry, especially when things aren't 100% successful.
 
 * Are Australian's overseas subject to these notices?
+
+* Would a warrant canary be a viable way of alerting employers/anyone that you
+  have been compelled to "assist" or is this useless due to a law passed in
+	2015?  
+  * See https://www.schneier.com/blog/archives/2015/03/australia_outla.html
+	* How can the aggregate disclosure statistics be given (can we provide
+	  overlapping 6-month windows, or do they have to be disjointed?).
