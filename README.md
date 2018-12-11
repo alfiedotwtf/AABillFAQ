@@ -306,3 +306,10 @@ My PGP key is included in this repo.
 	  overlapping 6-month windows, or do they have to be disjointed?).
 
 * Who can issue warrents and Notices
+
+* A technical person reviewing code/config/state finds software/configuration
+  that they believe may be the result of a TCN, or may be a malicious backdoor.
+	If they communicate information about what they have found to another person,
+  can they be in violation of the rules of a TCN they are unaware of?
+	* (Context for question: concern around chilling effects the law may have on
+	  reporting/discussing non-AAbill backdoor
