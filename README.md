@@ -272,3 +272,26 @@ My PGP key is included in this repo.
 * If served with a TCN, TAR or TAN, how long do we have do comply?
 
 * Does the execution of a TCN count as forced labour/slavery?
+
+* who can be targeted to implement a TCN? And individual? A company? Both? Can
+  an employee be targeted without their employer being told?
+
+* what secrecy/non disclosure provisions are provided for in a TCN? What are
+  the consequences of breaking same?
+
+* what mechanisms exist for disputing a TCN, both when it is declared and in
+  the event that the judge/expert opinion is wrong?
+
+* is there a fixed period after which TCN changes can be rolled back? Or must
+  they be permanent or exist until specifically revoked
+
+* what happens when a TCN change is inadvertently altered or has a bug
+  introduced or introduces a bug? Who pays any business costs due to the bug?
+
+* Are there punishments here?
+
+* must a TCN be specific in its target(s)? It seems vastly different asking for
+  a generic all user change vs something that would target one individual
+
+* will historical TCNs be disclosed? Post facto review is standard in the
+  industry, especially when things aren't 100% successful.
