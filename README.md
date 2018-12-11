@@ -295,3 +295,5 @@ My PGP key is included in this repo.
 
 * will historical TCNs be disclosed? Post facto review is standard in the
   industry, especially when things aren't 100% successful.
+
+* Are Australian's overseas subject to these notices?
