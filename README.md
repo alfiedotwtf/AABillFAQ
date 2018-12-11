@@ -304,3 +304,5 @@ My PGP key is included in this repo.
   * See https://www.schneier.com/blog/archives/2015/03/australia_outla.html
 	* How can the aggregate disclosure statistics be given (can we provide
 	  overlapping 6-month windows, or do they have to be disjointed?).
+
+* Who can issue warrents and Notices
