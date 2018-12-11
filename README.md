@@ -5,7 +5,7 @@ Access Bill 2018 for anyone working in the IT industry within Australia.
 
 See this tweet for more info:
 
-    https://twitter.com/Lizzie_OShea/status/1071222470378541056
+* [https://twitter.com/Lizzie_OShea/status/1071222470378541056](https://twitter.com/Lizzie_OShea/status/1071222470378541056)
 
 Here's the link for the bill, as passed by both Houses:
 
@@ -17,10 +17,10 @@ Let me emphasise that there are no stupid questions, just stupid policy.
 
 Feel free to ask questions by pull request, or leave a comment here:
 
-    https://github.com/alfiedotwtf/AABillFAQ/issues/1
+* [https://github.com/alfiedotwtf/AABillFAQ/issues/1](https://github.com/alfiedotwtf/AABillFAQ/issues/1)
 
 And if you're uncomfortable asking a question publicly, feel free to email me
-at (alfie@alfie.wtf), Signal (+61 400 777 227), or Twitter DM (@alfiedotwtf).
+at ([alfie@alfie.wtf](mailto:alfie@alfie.wtf)), Signal (+61 400 777 227), or Twitter DM ([alfiedotwtf](https://twitter.com/alfiedotwtf/)).
 
 My PGP key is included in this repo.
 
