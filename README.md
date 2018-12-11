@@ -320,3 +320,9 @@ My PGP key is included in this repo.
     law as unfit for purpose?
 	* Could we then have cause for the government to cover any financial losses
 	  related to this as the customers issue comes from the governments order?
+
+* In a case where an employee complies with a technical capability notice (TCN),
+  backdoors their company's software, and is subsequently dismissed by the
+	employer for undermining said software. What options does the employee have
+  with regards to unfair dismissal or any form of compensation for loss of
+  income?
