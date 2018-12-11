@@ -326,3 +326,7 @@ My PGP key is included in this repo.
 	employer for undermining said software. What options does the employee have
   with regards to unfair dismissal or any form of compensation for loss of
   income?
+
+* Can Article 12 or any other UDHR and/or other foreign or domestic legislation
+	relating to privacy protection be used as a legal basis for not complying
+  with a TCN?
