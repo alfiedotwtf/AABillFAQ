@@ -354,3 +354,26 @@ My PGP key is included in this repo.
   tight approval processes are already in place to prevent the scenario being
   imposed?
 
+* what, if any, legislation allows for intelligence agencies to insert covert
+  assets into organisations
+
+* What we need to do to repeal this law? Is it even possible?
+
+* how does this law affect working visa holders/permanent residents?
+
+* If forced to build backdoors, what happens with open source software?
+	* Under most open source software licenses, wouldn't open source software
+	  vendors be required to inform users that some of the code is going to be
+    closed source?
+
+* Is it possible that the Government could avoid the restriction of creating
+  systemic weakness, by forcing tech companies to serve malicious updates to
+  specific targets.
+
+* what would happen if a TCN required us to violate a copyright license? (For
+  instance, we are forced to add a backdoor to a GPLv3+ work and then ship it
+  to a user -- legally we have to give them the source code but this would
+  disclose the backdoor.)
+
+* Is refusing to simply give up a password enough to be penalised under the
+  bill
