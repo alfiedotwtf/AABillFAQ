@@ -313,3 +313,10 @@ My PGP key is included in this repo.
   can they be in violation of the rules of a TCN they are unaware of?
 	* (Context for question: concern around chilling effects the law may have on
 	  reporting/discussing non-AAbill backdoor
+
+* How will this interact with the consumer law?
+	* If we sell a product labelled as secure and we're forced to add a flaw into
+		that security does the customer have a right to refund under the consumer
+    law as unfit for purpose?
+	* Could we then have cause for the government to cover any financial losses
+	  related to this as the customers issue comes from the governments order?
