@@ -7,6 +7,10 @@ See this tweet for more info:
 
     https://twitter.com/Lizzie_OShea/status/1071222470378541056
 
+Here's the link for the bill, as passed by both Houses:
+
+* [https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6195_aspassed/toc_pdf/18204b01.pdf;fileType=application%2Fpdf#search=%22legislation/bills/r6195_aspassed/0000%22](https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6195_aspassed/toc_pdf/18204b01.pdf;fileType=application%2Fpdf#search=%22legislation/bills/r6195_aspassed/0000%22)
+
 ## Asking Questions
 
 Let me emphasise that there are no stupid questions, just stupid policy.
