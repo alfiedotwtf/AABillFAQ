@@ -15,9 +15,9 @@ Here's the link for the bill, as passed by both Houses:
 
 Let me emphasise that there are no stupid questions, just stupid policy.
 
-Feel free to ask questions by pull request, or leave a comment here:
+Feel free to ask questions by pull request, or create an issue here:
 
-* [https://github.com/alfiedotwtf/AABillFAQ/issues/1](https://github.com/alfiedotwtf/AABillFAQ/issues/1)
+* [https://github.com/alfiedotwtf/AABillFAQ/issues/new](https://github.com/alfiedotwtf/AABillFAQ/issues/new)
 
 And if you're uncomfortable asking a question publicly, feel free to email me
 at ([alfie@alfie.wtf](mailto:alfie@alfie.wtf)), Signal (+61 400 777 227), or Twitter DM ([alfiedotwtf](https://twitter.com/alfiedotwtf/)).
