@@ -330,3 +330,27 @@ My PGP key is included in this repo.
 * Can Article 12 or any other UDHR and/or other foreign or domestic legislation
 	relating to privacy protection be used as a legal basis for not complying
   with a TCN?
+
+* I would like to know how this bill will impact the use of open source
+  software when stable and reliable software have licenses which provide no
+  enterprise support and no obligation to change for its users.
+
+* What are the obligations of open source maintainers for software directed to
+  break down security?
+
+* If there is no maintainer (passed away etc), will it be mandated to fork a
+  repository to take on additional responsibility and capability just to
+  introduce security flaws? How will this work, its resources and the
+  sustainability of said problems be funded - even in the event no funding or
+  liquidation is occurring.
+
+* Upstream changes required to meet a Capability Notice for code maintained
+	outside of Australia. What will happen to projects which have multiple
+	parties across the world including if only one Australian citizen is
+  maintaining?
+
+* Are maintainers expected to introduce security flaws to comply with a Notice
+  and not consult other maintainers, stakeholders or the community - even when
+  tight approval processes are already in place to prevent the scenario being
+  imposed?
+
