@@ -9,7 +9,7 @@ See this tweet for more info:
 
 Here's the link for the bill, as passed by both Houses:
 
-* [https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6195_aspassed/toc_pdf/18204b01.pdf;fileType=application%2Fpdf#search=%22legislation/bills/r6195_aspassed/0000%22](https://parlinfo.aph.gov.au/parlInfo/download/legislation/bills/r6195_aspassed/toc_pdf/18204b01.pdf;fileType=application%2Fpdf#search=%22legislation/bills/r6195_aspassed/0000%22)
+* [https://www.legislation.gov.au/Details/C2018A00148](https://www.legislation.gov.au/Details/C2018A00148)
 
 ## Asking Questions
 
