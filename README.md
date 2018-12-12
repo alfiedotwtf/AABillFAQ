@@ -38,6 +38,40 @@ My PGP key is included in this repo.
 
 * Tidy up document and find a place to host it
 
+# Top 5 to be sent right away
+
+1. There has been confusion around who can recieve a warrant, TAN, TAR, and
+	 TCN. Some people are saying that only telco providers in the traditional
+	 sense receive these and then get staff and contractors to execute them,
+	 while others say that anyone can be approached directly who have knowledge
+	 of a system or the capability to access and modify a system, regardless of
+	 their current status: i.e local or remote, citizen or foreigner, employee or
+   contractor or former employee or ever hobbyist.
+
+   Who can be approached with a warrent, TAN, TAR, and TCN to execute it?
+
+2. Can these warrants and notices force you to build or modify software that
+	 circumvents a product's security, your company's security, or even somebody
+	 else's security (not the target), so that they can use it as a stepping
+   stone to get into the target's computer.
+
+	 E.g. their target buys your microphone, which needs a Windows driver to run.
+	 Can you be forced to modify your Windows driver and push a targetted update
+   that will then allow spying or even remote access to their computer)
+
+3. If approached directly with a warrant or notice, are you allowed to tell
+	 anyone? e.g colleagues in order to assist in executing them, bosses to let
+	 them know they are compromising the safety of their systems and their own
+	 work schedule will be affected, and legal team to check validity of request
+
+4. What happens if there is a bug in your execution of the warrant or notice,
+   which leads to unauthorised disclosure?
+
+5. When approached with a warrant or notice, how does one verify the
+   authenticity of the people serving them, and the legality of the request?
+
+6. Are warrant canary's legal or even possible to disclose warrants or notices?
+
 # Questions
 
 * Is a 'warrant canary' considered "technical assistance notice information"
