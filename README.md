@@ -416,3 +416,7 @@ My PGP key is included in this repo.
 	executing the order it was accidently disclosed to the target or other people
 
 * Can plausible deniability protect you against accidental disclosure
+
+* What, if any, avenues exist at the state level either through legislation or
+  the judicial system to protect/offer legal recourse for developers served
+  with a notice?
