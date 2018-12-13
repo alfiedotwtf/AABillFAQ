@@ -7,7 +7,7 @@ See this tweet for more info:
 
 * [https://twitter.com/Lizzie_OShea/status/1071222470378541056](https://twitter.com/Lizzie_OShea/status/1071222470378541056)
 
-Here's the link for the bill, as passed by both Houses:
+Here is the link for the bill, as passed by both Houses:
 
 * [https://www.legislation.gov.au/Details/C2018A00148](https://www.legislation.gov.au/Details/C2018A00148)
 
@@ -19,7 +19,7 @@ Feel free to ask questions by pull request, or create an issue here:
 
 * [https://github.com/alfiedotwtf/AABillFAQ/issues/new](https://github.com/alfiedotwtf/AABillFAQ/issues/new)
 
-And if you're uncomfortable asking a question publicly, feel free to email me
+And if you are uncomfortable asking a question publicly, feel free to email me
 at ([alfie@alfie.wtf](mailto:alfie@alfie.wtf)), Signal (+61 400 777 227), or Twitter DM ([alfiedotwtf](https://twitter.com/alfiedotwtf/)).
 
 My PGP key is included in this repo.
@@ -86,7 +86,7 @@ My PGP key is included in this repo.
 * Are any of the following "carriage service provider"s under the
   Telecommunications Act 1997? (This has ramifications under s. 317C)
   * Tor node operators
-  * Operators of servers used for online communication (eg: IRC, SIP, Jabber,
+  * Operators of servers used for online communication (e.g.: IRC, SIP, Jabber,
     Tox etc)
 
 * Is software considered a "...part of the infrastructure of a
@@ -94,10 +94,10 @@ My PGP key is included in this repo.
   1997 s. 7? (This has ramifications under s. 317C)
 
 * What is the definition of "arranges for the supply" as per item 2 of s. 317C?
-  * Would a transaction processing entity (Eg: PayPal, fiat cryptocurrency
+  * Would a transaction processing entity (e.g.: PayPal, fiat cryptocurrency
     exchange) involved in the payment for listed carriage service be considered
     "arranging for the supply"?
-  * Digital Distribution Platforms (Eg: Steam, Google, CleverBridge)
+  * Digital Distribution Platforms (e.g.: Steam, Google, CleverBridge)
 
 * Are any the following considered a designated communications provider as per
   item 3 of s. 317C?
@@ -107,9 +107,9 @@ My PGP key is included in this repo.
 
 * Are any the following considered a designated communications provider as per
   item 4 of s. 317C?
-  * Person running a server instance used to facilitate communication (Eg: IRC
+  * Person running a server instance used to facilitate communication (e.g.: IRC
     server, Tor node, Tox node, SIP server)
-  * Website owner or Administrator (Eg: Alfie John of alfie.wtf)
+  * Website owner or Administrator (e.g.: Alfie John of alfie.wtf)
   * Cryptocurrency 'miner' participating on an online blockchain or another
     similar networked ledger technology.
   * An electronic service provider that has intentionally geo-blocked
@@ -124,17 +124,17 @@ My PGP key is included in this repo.
     available for download.
   * Unincorporated uncontracted volunteer who manages an open source project.
 
-* Are any building maintenance personnel (eg: HVAC, cleaning crew) of a
+* Are any building maintenance personnel (e.g.: HVAC, cleaning crew) of a
   facility considered a designated communications provider as per item 7 of s.
   317C?
 
 * Are any the following considered a designated communications provider as per
   item 8 of s. 317C?
-  * SoC (system-on-a-chip) manufacturers (eg: Qualcomm)
-  * SIM/smartcard manufacturers (eg: Gemalto)
-  * IC and microcontroller manufacturers (Eg: Texas Instruments,
+  * SoC (system-on-a-chip) manufacturers (e.g.: Qualcomm)
+  * SIM/smartcard manufacturers (e.g.: Gemalto)
+  * IC and microcontroller manufacturers (e.g.: Texas Instruments,
     STMicroelectronics, Intel, fabs)
-  * Distributors (Eg: RS Components)
+  * Distributors (e.g.: RS Components)
   * PCB manufacturers.
 
 * Would the person 'setting up' an internet connection for a domestic premises
@@ -143,18 +143,18 @@ My PGP key is included in this repo.
 
 * Are any the following considered a designated communications provider as per
   item 10 of s. 317C?
-  * OEMs (eg: Dell)
-  * Retailers (Eg: JB Hi-Fi)
-  * Equipment Installers (Eg: support consultant, on-site technician)
+  * OEMs (e.g.: Dell)
+  * Retailers (e.g.: JB Hi-Fi)
+  * Equipment Installers (e.g.: support consultant, on-site technician)
 
 * Are any the following considered a designated communications provider as per
   item 11 of s. 317C?
-  * SoC (system-on-a-chip) manufacturers (eg: Qualcomm)
-  * SIM/smartcard manufacturers (Eg: Gemalto)
-  * IC and microcontroller manufacturers (Eg: Texas Instruments,
+  * SoC (system-on-a-chip) manufacturers (e.g.: Qualcomm)
+  * SIM/smartcard manufacturers (e.g.: Gemalto)
+  * IC and microcontroller manufacturers (e.g.: Texas Instruments,
     STMicroelectronics, Intel, fabs)
   * PCB manufacturers.
-  * Distributors (Eg: RS Components)
+  * Distributors (e.g.: RS Components)
 
 * Are any the following considered a designated communications provider as per
   item 12 of s. 317C?
@@ -164,7 +164,7 @@ My PGP key is included in this repo.
      (Hardware Security Module)
     * DNSSEC Administrators?
   *  Individual person of OEM that is ultimately provisioning company image
-     onto OEM system (Eg: Dell technician preinstalling a company image before
+     onto OEM system (e.g.: Dell technician preinstalling a company image before
      shipping to said company)
 
 * Are any the following considered a designated communications provider as per
@@ -174,18 +174,18 @@ My PGP key is included in this repo.
 
 * Are any the following considered a designated communications provider as per
   item 14 of s. 317C?
-  * Hard disk manufacturers (Eg: Seagate, WD)
-  * Flash memory manufacturers (Eg: SanDisk)
-  * SIM/smart card manufacturers (Eg: Gemalto)
-  * Optical media manufacturers (Eg: Verbatim)
-  * Tape media manufacturers (Eg: Sony, Fujifilm)
+  * Hard disk manufacturers (e.g.: Seagate, WD)
+  * Flash memory manufacturers (e.g.: SanDisk)
+  * SIM/smart card manufacturers (e.g.: Gemalto)
+  * Optical media manufacturers (e.g.: Verbatim)
+  * Tape media manufacturers (e.g.: Sony, Fujifilm)
 
 * Are any the following considered a designated communications provider as per
   item 15 of s. 317C?
   * Canonical (Producer of Ubuntu operating system fork)
   * RedHat (Sponsor of the Fedora Project, Producer of RedHat)
   * General Dynamics C4 Systems (seL4 microkernel project)
-  * Linux package repository mirror provider (Eg: Debian apt repos, aarnet,
+  * Linux package repository mirror provider (e.g.: Debian apt repos, AARNet,
     Digital Pacific)
 
 * Who determines if a "carrier or provider is capable" as per paragraph 1 of s.
@@ -199,7 +199,7 @@ My PGP key is included in this repo.
 * Assuming a piece of software is already highly decentralised and anonymised
   so that particular persons cannot be identified, if a developer designs their
   software distribution system to ensure they have no control over the channels
-  particular persons can update their software (Eg: BitTorrent, mirrors, or other
+  particular persons can update their software (e.g.: BitTorrent, mirrors, or other
   broadcast-like technology unlike Google and their Play Store and Apple and
   their Appstore), would that be sufficient enough to ensure the software update
   process is no longer be utilised as an attack-vector against a particular
@@ -223,7 +223,7 @@ My PGP key is included in this repo.
 
 * Does the bill apply to Australians based overseas
 
-* Do these notices and warrants apply to foreign visitors while traveling
+* Do these notices and warrants apply to foreign visitors while travelling
   to Australia for vacation
 
 * Is it possible that a Notice can be supplied to Certificate Authorities to
@@ -237,19 +237,19 @@ My PGP key is included in this repo.
 * What happens if the Notice or warrant is issued to a company who wants to
   comply but the employees refuse
 
-* Can individuals tell anyone like an employeer, colleagues, lawyers if they
+* Can individuals tell anyone like an employer, colleagues, lawyers if they
   have been issued a warrant or Notice
 
 * what is the definition of "systemic weakness"
 
-* "A person covered in paragraph (1)(b) may disclose... for the pursose of
+* "A person covered in paragraph (1)(b) may disclose... for the purpose of
   obtaining legal" how widely can you ask for advice
 
 * What happens when a company cannot comply to a warrant or a Notice because of
-  technical design (i.e don't hold any keys or data)
+  technical design (i.e do not hold any keys or data)
 
 * Can the government walk up to me, demand I create a backdoor in my work
-  software or access work databases, and I can't tell my employer or client
+  software or access work databases, and I can not tell my employer or client
 
 * What happens if someone finds a vulnerability
 	* and fixes it
@@ -262,21 +262,21 @@ My PGP key is included in this repo.
 * Are we able to handle any European data in Australia as it could be a
   potential violation of GPDR
 
-* When a weakness is discovered, what happens when it's fixed by someone not
+* When a weakness is discovered, what happens when it is fixed by someone not
   under a Notice
 
 * What happens when to target a user, we would have to decrypt for all users
 
 * What happens if we do client-side encryption - do we have to modify the
   decryption to target an individual?
-	* What are the ramifications if we are caught if we can't target the payload
+	* What are the ramifications if we are caught if we can not target the payload
 	  to the individual and so have to serve it to everyone (think CDN)?
 
 * Can you be fired for complying with a warrant or Notice because you
-  undermined your employeer's security
+  undermined your employer's security
 
 * Can you be fired or be under penalty for complying with a warrant or Notice
-	but it caused a security breach, GDPR breach, or accidently disclosed the
+	but it caused a security breach, GDPR breach, or accidentally disclosed the
 	actions of the warrant or Notice
 
 * Can warrants and Notices go directly to staff or contractors rather than
@@ -284,12 +284,12 @@ My PGP key is included in this repo.
 	* Are direct approaches allowed to let employers, colleagues know
 	* What if they need help from others to get execute the warrant or Notice
 
-* What are the penalites for refusing a warrant, TAR, TAN, or TCN
-	* What if you can't genuinely comply because of external constraints or the
+* What are the penalties for refusing a warrant, TAR, TAN, or TCN
+	* What if you can not genuinely comply because of external constraints or the
 	  risk of disclosure
 
 * If we are served with a TCN, TAR, or TAN, is it legal to engage a lawyer, or
-  does the non-discloseure provisions include attorney-client privilege?
+  does the non-disclosure provisions include attorney-client privilege?
 
 * If I am served a TCN, but the execution of it would breach GDPR or HIPPA,
   what do I do?
@@ -327,10 +327,10 @@ My PGP key is included in this repo.
 * must a TCN be specific in its target(s)? It seems vastly different asking for
   a generic all user change vs something that would target one individual
 
-* will historical TCNs be disclosed? Post facto review is standard in the
-  industry, especially when things aren't 100% successful.
+* will historical TCNs be disclosed? Post-facto review is standard in the
+  industry, especially when things are not 100% successful.
 
-* Are Australian's overseas subject to these notices?
+* Are Australians overseas subject to these notices?
 
 * Would a warrant canary be a viable way of alerting employers/anyone that you
   have been compelled to "assist" or is this useless due to a law passed in
@@ -339,7 +339,7 @@ My PGP key is included in this repo.
 	* How can the aggregate disclosure statistics be given (can we provide
 	  overlapping 6-month windows, or do they have to be disjointed?).
 
-* Who can issue warrents and Notices
+* Who can issue warrants and Notices
 
 * A technical person reviewing code/config/state finds software/configuration
   that they believe may be the result of a TCN, or may be a malicious backdoor.
@@ -349,7 +349,7 @@ My PGP key is included in this repo.
 	  reporting/discussing non-AAbill backdoor
 
 * How will this interact with the consumer law?
-	* If we sell a product labelled as secure and we're forced to add a flaw into
+	* If we sell a product labelled as secure and we are forced to add a flaw into
 		that security does the customer have a right to refund under the consumer
     law as unfit for purpose?
 	* Could we then have cause for the government to cover any financial losses
