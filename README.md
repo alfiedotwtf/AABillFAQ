@@ -414,3 +414,5 @@ My PGP key is included in this repo.
 
 * What happens to the person who got issued the warrant or notice if during
 	executing the order it was accidently disclosed to the target or other people
+
+* Can plausible deniability protect you against accidental disclosure
