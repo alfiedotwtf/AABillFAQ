@@ -411,3 +411,6 @@ My PGP key is included in this repo.
 
 * Is refusing to simply give up a password enough to be penalised under the
   bill
+
+* What happens to the person who got issued the warrant or notice if during
+	executing the order it was accidently disclosed to the target or other people
