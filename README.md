@@ -420,3 +420,17 @@ My PGP key is included in this repo.
 * What, if any, avenues exist at the state level either through legislation or
   the judicial system to protect/offer legal recourse for developers served
   with a notice?
+
+* How can I confirm a request is real
+
+* Even though you're covered for civil, what about foreign law GDPR/SOX/SOC2
+
+* What is the meaning behind the clause "pre-condition"
+
+* What are the legal implications of quiting if your company is served a
+  warrant or notice
+
+* how do you document/prove that a TAR that was given orally
+	* e.g. if you don't comply, what is to say you actually received it
+
+* Could a technician fixing your phone or computer be forced to install spyware
