@@ -434,3 +434,6 @@ My PGP key is included in this repo.
 	* e.g. if you don't comply, what is to say you actually received it
 
 * Could a technician fixing your phone or computer be forced to install spyware
+
+* If I get served with one of these requests, what do I do? In particular, how,
+  where and when do I find a lawyer to help me?
