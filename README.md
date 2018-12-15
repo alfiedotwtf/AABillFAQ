@@ -38,7 +38,7 @@ My PGP key is included in this repo.
 
 * Tidy up document and find a place to host it
 
-# Top 5 to be sent right away
+# Top 5 Questions
 
 1. There has been confusion around who can recieve a warrant, TAN, TAR, and
 	 TCN. Some people are saying that only telco providers in the traditional
