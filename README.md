@@ -450,3 +450,11 @@ My PGP key is included in this repo.
 
 * What format will a request for assistance take? Is it a letter, an email or a
   tap on the shoulder by an intelligence/police officer
+
+* If an employer is served a warrant or notice, can you quit without being
+  legally liable
+
+* If a vulnerability is discovered, how do you determine if it was an accident
+  and fix it, or a something done under a notice
+
+* Who is liable for loss or harm due to a changed from a notice
