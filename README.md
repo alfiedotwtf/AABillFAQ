@@ -437,3 +437,16 @@ My PGP key is included in this repo.
 
 * If I get served with one of these requests, what do I do? In particular, how,
   where and when do I find a lawyer to help me?
+
+* If there is a legal way to make a canary, how should one go about it
+
+* what kind of language should we seek to have added to contracts to allow us
+  to legally sign those contracts while allowing for the possibility we may
+  need to deliver malware to our clients
+
+* for software distributed to general consumers, what kind of changes to the
+  software license / terms of service should we include to advise them that we
+  may at any time without notice include malware in the software
+
+* What format will a request for assistance take? Is it a letter, an email or a
+  tap on the shoulder by an intelligence/police officer
