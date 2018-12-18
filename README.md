@@ -466,3 +466,6 @@ My PGP key is included in this repo.
 
 * How may an individual seek legal advice wrt the receipt of a TAN/TAR/TCN
   without risking noncompliance or violating nondisclosure?
+
+* Is it legal to implement international code review practices that would
+  render a stealth implementation of a TAN/TAR/TCN impossible?
