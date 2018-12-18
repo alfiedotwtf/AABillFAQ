@@ -458,3 +458,8 @@ My PGP key is included in this repo.
   and fix it, or a something done under a notice
 
 * Who is liable for loss or harm due to a changed from a notice
+
+* what are the implications if you have a startup or small business, or work
+  for yourself, and your business is closing (either in the case where you had
+	decided to close it in response to a notice, or the case where you received a
+  notice when plans to wind down where already in progress
