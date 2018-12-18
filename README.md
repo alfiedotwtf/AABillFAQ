@@ -463,3 +463,6 @@ My PGP key is included in this repo.
   for yourself, and your business is closing (either in the case where you had
 	decided to close it in response to a notice, or the case where you received a
   notice when plans to wind down where already in progress
+
+* How may an individual seek legal advice wrt the receipt of a TAN/TAR/TCN
+  without risking noncompliance or violating nondisclosure?
