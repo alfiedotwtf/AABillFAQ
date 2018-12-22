@@ -469,3 +469,7 @@ My PGP key is included in this repo.
 
 * Is it legal to implement international code review practices that would
   render a stealth implementation of a TAN/TAR/TCN impossible?
+
+* What if executing a TCN is actually impossible
+
+* What if executing a warrant or Notice, you need the help of others
