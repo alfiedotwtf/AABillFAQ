@@ -477,3 +477,10 @@ My PGP key is included in this repo.
 * In an outsourced environment (e.g managed service provider) if you go against
   your contractural agreement to excersise a warrant or Notice on computer
   systems you have access to but do not own, are you criminally liable
+
+* Can contractors (working via an agency and not employed by the company) be
+  subject to warrants or Notices directly or even via their agencies, or the
+  company they are working with
+
+  * What are the legal ramifications if you quit when asked to exercise a
+    warrant or Notice
