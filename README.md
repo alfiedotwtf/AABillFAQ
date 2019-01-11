@@ -484,3 +484,15 @@ My PGP key is included in this repo.
 
   * What are the legal ramifications if you quit when asked to exercise a
     warrant or Notice
+
+* Under the Criminal Code, it is a criminal offence to interfere with
+  communication facilities. If carring out a warrant or Notice requires you to
+  interfere with communication facilities, are you liable for criminal charges
+
+  * Does that mean the people involved who created the warrant or Notice
+    conspired to commit a crime
+
+  * Does this mean any evidence during the illegal act is not admisible in
+    court
+
+  * Does this mean legal proceeding could make public a warrant or Notice
