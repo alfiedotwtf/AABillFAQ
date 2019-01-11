@@ -473,3 +473,7 @@ My PGP key is included in this repo.
 * What if executing a TCN is actually impossible
 
 * What if executing a warrant or Notice, you need the help of others
+
+* In an outsourced environment (e.g managed service provider) if you go against
+  your contractural agreement to excersise a warrant or Notice on computer
+  systems you have access to but do not own, are you criminally liable
