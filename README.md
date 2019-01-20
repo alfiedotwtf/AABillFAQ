@@ -38,9 +38,7 @@ My PGP key is included in this repo.
 
 * Tidy up document and find a place to host it
 
-# Answered Questions
-
-## Disclaimer
+# Disclaimer
 
 **This is some legal information about the AA Act, and should be read as such. It
 is not intended to be legal advice. If you need advice about your particular
@@ -49,6 +47,8 @@ you are welcome to get in touch. Of course, given that this is relatively new
 law, the information we have about it may change over time as it starts being
 used. We welcome feedback to that end. This was drafted by Lizzie O'Shea, with
 assistance from Patrick Fair.**
+
+# Answered Questions
 
 *There has been confusion around who can recieve a warrant, TAN, TAR, and TCN.
 Some people are saying that only telco providers in the traditional sense
