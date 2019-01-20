@@ -38,41 +38,247 @@ My PGP key is included in this repo.
 
 * Tidy up document and find a place to host it
 
-# Top 5 Questions
+# Answered Questions
 
-1. There has been confusion around who can recieve a warrant, TAN, TAR, and
-	 TCN. Some people are saying that only telco providers in the traditional
-	 sense receive these and then get staff and contractors to execute them,
-	 while others say that anyone can be approached directly who have knowledge
-	 of a system or the capability to access and modify a system, regardless of
-	 their current status: i.e local or remote, citizen or foreigner, employee or
-   contractor or former employee or ever hobbyist.
+## Disclaimer
 
-   Who can be approached with a warrent, TAN, TAR, and TCN to execute it?
+**This is some legal information about the AA Act, and should be read as such. It
+is not intended to be legal advice. If you need advice about your particular
+situation, you should contact a lawyer. If you need a referral for a lawyer,
+you are welcome to get in touch. Of course, given that this is relatively new
+law, the information we have about it may change over time as it starts being
+used. We welcome feedback to that end. This was drafted by Lizzie O'Shea, with
+assistance from Patrick Fair.**
 
-2. Can these warrants and notices force you to build or modify software that
-	 circumvents a product's security, your company's security, or even somebody
-	 else's security (not the target), so that they can use it as a stepping
-   stone to get into the target's computer.
+*There has been confusion around who can recieve a warrant, TAN, TAR, and TCN.
+Some people are saying that only telco providers in the traditional sense
+receive these and then get staff and contractors to execute them, while others
+say that anyone can be approached directly who have knowledge of a system or
+the capability to access and modify a system, regardless of their current
+status: i.e local or remote, citizen or foreigner, employee or contractor or
+former employee or ever hobbyist.*
 
-	 E.g. their target buys your microphone, which needs a Windows driver to run.
-	 Can you be forced to modify your Windows driver and push a targetted update
-   that will then allow spying or even remote access to their computer)
+*Who can be approached with a warrant, TAN, TAR, and TCN to execute it?*
 
-3. If approached directly with a warrant or notice, are you allowed to tell
-	 anyone? e.g colleagues in order to assist in executing them, bosses to let
-	 them know they are compromising the safety of their systems and their own
-	 work schedule will be affected, and legal team to check validity of request
+Let's start with TAR/TAN/TCN (for ease of reference, let's call all of these
+Sch 1 notices – while noting that a TAR is actually a voluntary request). A Sch
+1 notice can be given to a "designated communications provider." This is a
+defined term at s 317C and is very broad. The former-Law Enforcement and Cyber
+Security Minister Angus Taylor's office confirmed to the Australian Financial
+Review that the laws would apply to "any entity operating a website."
 
-4. What happens if there is a bug in your execution of the warrant or notice,
-   which leads to unauthorised disclosure?
+The definition of designated communications provider refers to "persons" which
+can be individual people or legal persons (a legal person is a entity capable
+of being sued, like a company).
 
-5. When approached with a warrant or notice, how does one verify the
-   authenticity of the people serving them, and the legality of the request?
+For practical reasons, if an individual worker was be given a Sch 1 notice, it
+is highly likely they will need to tell other people in their company about
+them in order to execute the notice. Under s 317ZB, for example, the designated
+communications provider is only required to comply with the Sch 1 notice to the
+extent that the carrier or provider is capable of doing so. So it is
+technically possible that an individual employee could be given a Sch 1 notice,
+but it is also unlikely for practical reasons that they would be somehow
+required to carry out the requirements without their employer knowing, for
+example. The agency would be better off just giving the notice to the company
+itself.
 
-6. Are warrant canary's legal or even possible to disclose warrants or notices?
+As to whether someone from the list (local or remote employee, citizen or
+foreigner, employee or contractor or former employee or even hobbyist) could be
+given a Sch 1 notice, the answer is yes. The person is only required to comply
+to the extent they are capable of doing so, but there is no restriction on
+where the person is located, or whether the person is a current or a former
+employee (though the language is unclear on this point).
 
-# Questions
+However, it should be noted that the relevant agency will probably have a hard
+time getting a company based entirely outside of the country to comply with any
+Sch 1 notice. While such a notice could seemingly be served, there remains
+practical obstacles to enforcing it in circumstances where the company has no
+assets or employees in the jurisdiction (provided the company is not prepared
+to comply of its own accord). The point here is practical more than legal - the
+power still exists.  For this reason, any company with employees or an office
+located in Australia can be given a Sch 1 notice, and they face serious risks
+if they do not comply, including significant fines.
+
+The AA Bill also contained some new provisions relating to warrants. This
+included the insertion of a new section into the Surveillance Devices Act, s
+64A which requires that a person with knowledge of a computer or a computer
+system to assist a law enforcement officer to access information. This can be
+anyone. It should be noted that this new provision is subject to the secrecy
+provisions in s 45 of that act. Those secrecy provisions have a long list of
+exceptions, they are mostly particular and narrow.
+
+It is very important to have clear idea of what is being required and under
+what power.
+
+---
+
+*Can these warrants and notices force you to build or modify software that
+circumvents a product's security, your company's security, or even somebody
+else's security (not the target), so that they can use it as a stepping
+stone to get into the target's computer.*
+
+*E.g. their target buys your microphone, which needs a Windows driver to run.
+Can you be forced to modify your Windows driver and push a targetted update
+that will then allow spying or even remote access to their computer)*
+
+Yes. A Sch1 notice can be given to any company (or person) in the supply chain
+and other companies in the supply chain will have no way of knowing whether the
+product has been compromised or tampered with under this Act. This is one of
+the controversial provisions in the Act, because a user cannot tell if software
+or hardware installed in a system can be trusted.
+
+This question also raises an interesting point about the object of the Sch 1
+notice. There is a general limit on Sch 1 notices, in that they have no effect
+to the extent (if any) to which such a notice would require a designated
+communications provider to do an act or thing for which the agency would be
+required to have or obtain a warrant or authorisation under certain acts (see s
+317ZH). It’s slightly clunky drafting, but in general terms, the point of this
+provision is to make sure the agency gets a warrant which it then carries out
+using the Sch 1 notice.
+
+That's fine for warrants, but authorisations are a little more tricky. For
+example, the metadata retention regime authorises certain agencies to request
+metadata without a warrant. There is an interesting (and alarming) example here
+that might illustrate the point.
+
+It is easy to imagine that an agency might want the metadata of a leaker of
+sensitive government information, if they suspect the leaking breaks the law.
+The agency would be authorised to obtain the metadata of the leaker without a
+warrant.  This means the agency could issue a Sch 1 notice that is directed
+towards finding out the identity of the leaker, including against people that
+the leaker might be in contact with (ie people other than the target). This Sch
+1 notice could include things like installing malware on the phone of a
+journalist who might be publishing the leaks. In this example, the Sch 1 notice
+is being used to undermine a person's security who is not the target, pursuant
+to an authorisation.
+
+---
+
+*If approached directly with a warrant or notice, are you allowed to tell
+anyone? e.g colleagues in order to assist in executing them, bosses to let them
+know they are compromising the safety of their systems and their own work
+schedule will be affected, and legal team to check validity of request*
+
+If you are given a Sch 1 notice, you are allowed to tell certain people. In
+general, the regime permits a person given a Sch 1 notice to share information
+about that notice for the purposes of executing it. That includes people within
+the agency who gave you the Sch 1 notice. It also includes people within your
+company, both above you and below you in reporting terms, as well as
+contractors.
+
+It is important to think about what is reasonable in the context, and how a
+court might interpret this at a later time. One way to protect yourself is to
+ask for a list of people in writing to whom you can make disclosures from the
+agency that has given you the Sch 1 notice.
+
+For the purposes of being a bit more specific, the relevant section is s 317ZE.
+It’s lengthy and it is a bit technical, but here are a couple of provisions
+that are probably most likely to be relevant. You are able to disclose
+information about a Sch 1 notice:
+
+* in accordance with any requirement imposed by a law of the Commonwealth, a
+State or a Territory;
+
+* for the purpose of obtaining legal advice in relation to the provisions
+around unauthorized disclosures.
+
+This means if you are unsure, you should seek legal advice, which you are
+permitted to do under the Act.
+
+---
+
+*What happens if there is a bug in your execution of the warrant or notice,
+which leads to unauthorised disclosure?*
+
+Section 371ZJ cover this kind of situation. It sets out that a designated
+communications provider is not subject to any civil liability for an act or
+thing done in compliance with (or in good faith in purported compliance with) a
+technical assistance notice or a technical capability notice. (Note that
+technical assistance requests are excluded from this. Note also that they are
+voluntary).
+
+If there is a bug in the execution of the warrant, provided it is done in good
+faith, the person who writes it will not be held liable for unauthorized
+disclosures that might come about as a result.
+
+---
+
+*When approached with a warrant or notice, how does one verify the authenticity
+of the people serving them, and the legality of the request?*
+
+The recipient of a Sch 1 notice should never accept anything they are told over
+the telephone by email or in person. They should contact the agency directly
+using an independently obtained number or contact details in order to obtain
+independent verification of the identity of the issuing party.
+
+If there is some uncertainty about this, you should speak to a lawyer, which
+the Act permits you to do. The lawyer should also be able to give you advice
+about whether the Sch 1 notice is lawful.
+
+We note the following about who is authorised to give what:
+
+* Technical assistance notices must be given by the Director-General of
+Security or the chief officer of an interception agency. If the technical
+assistance notice is given by the chief officer of an interception agency, it
+must be approved by the Australian Federal Police Commissioner.
+
+* Technical capability notices may only be given by the Attorney General, in
+accordance with a request made by the Director-General of Security or the chief
+officer of an interception agency. The Minister for Home Affairs must also
+approve the technical capability notice.
+
+The Attorney General can probably delegate this authority, but there should be
+some indication that this has happened in the notice itself.
+
+Prior to giving the technical capability notice, the Attorney General is
+required to consult the designated communications provider.  The provider may
+request that assessors be appointed to determine whether the notice should be
+given.
+
+In general, Sch 1 notices must be in writing, except in certain circumstances,
+such as an imminent risk of serious harm or substantial damage to property, or
+it is not practical to do so. But the relevant person is generally required to
+make a written record of the decision within 48 hours.
+
+---
+
+*Are warrant canary's legal or even possible to disclose warrants or notices?*
+
+Under s 317ZF, a person must not disclose information about a Sch 1 notice.
+This includes "technical assistance notice information," "technical capability
+notice information," and "technical assistance request information." All these
+terms are defined, and they all include "the existence or nonexistence" of the
+relevant notice or request.
+
+For example, imagine that a company posted information online such as: "it has
+been six months since we haven't received a technical assistance notice" and
+then this information is taken down or adjusted when these facts changed.  This
+would be information about the existence or nonexistence of a technical
+assistance notice and would be in breach of s 317ZF.
+
+There is clearly something of a logical loop here, in that it is somewhat
+tricky to clearly define what might be a disclosure about the non-existence of
+the notice or request. But the point of the provision appears to prevent the
+use of warrant canaries, and a court is therefore likely to interpret it in
+that way.
+
+For completeness, we also note that there are relevant provisions at s 317ZA
+and 317ZB which requires a person to comply with a requirement under a
+technical assistance notice or a technical capability notice. A requirement
+here will most likely include the prohibition on disclosing information about
+that notice. That is, disclosing information about the notice will be a
+contravention.
+
+Notably, a person must not be complicit in the contravention of s 317ZA. That
+is, you cannot:
+
+* aid, abet, counsel or procure a contravention
+* induce, whether by threats or promises or otherwise, a contravention
+* be in any way, directly or indirectly, knowingly concerned in, or party to, a
+  contravention
+* conspire with others to effect a contravention.
+
+# Unsorted and Unanswered Questions
 
 * Is a 'warrant canary' considered "technical assistance notice information"
   under s. 317B?
