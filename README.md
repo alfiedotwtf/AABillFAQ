@@ -496,3 +496,12 @@ My PGP key is included in this repo.
     court
 
   * Does this mean legal proceeding could make public a warrant or Notice
+
+* 317ZB "... makes an exception for contravention of foreign laws in a foreign country"
+  * If a provider needs legal advice about a foriegn law, are you allowed to
+    disclose a warrant or Notice to a foriegn lawyer
+
+* Does any provision cover asking your employer for leave or other similar
+  administrative arrangements
+
+* Because of 317E, does this mean Open Source software is exempt the AABill
