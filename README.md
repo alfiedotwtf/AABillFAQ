@@ -63,9 +63,14 @@ former employee or ever hobbyist.*
 Let's start with TAR/TAN/TCN (for ease of reference, let's call all of these
 Sch 1 notices – while noting that a TAR is actually a voluntary request). A Sch
 1 notice can be given to a "designated communications provider." This is a
-defined term at s 317C and is very broad. The former-Law Enforcement and Cyber
-Security Minister Angus Taylor's office confirmed to the Australian Financial
-Review that the laws would apply to "any entity operating a website."
+defined term at s 317C and is very broad. For example, it includes a person who
+"provides an electronic service that has one or more end-users in Australia."
+Section 317D(2) specifically includes a website in the definition of
+"electronic service." The former-Law Enforcement and Cyber Security Minister
+Angus Taylor's office
+[confirmed](https://www.afr.com/news/cyber-security-laws-to-cover-all-businesses-angus-taylor-confirms-20180815-h13zdo)
+to the Australian Financial Review that the laws would apply to "any entity
+operating a website."
 
 The definition of designated communications provider refers to "persons" which
 can be individual people or legal persons (a legal person is a entity capable
@@ -80,7 +85,13 @@ technically possible that an individual employee could be given a Sch 1 notice,
 but it is also unlikely for practical reasons that they would be somehow
 required to carry out the requirements without their employer knowing, for
 example. The agency would be better off just giving the notice to the company
-itself.
+itself.  Section 317ZF(3)(a) may also offer protection of an individual in
+these circumstances. It states that an employee of a designated communications
+provider may disclose information about Sch 1 notices "in connection with the
+administration or execution of this Part." There is a little ambiguity about
+who this applies to in the drafting, but its plain meaning looks like it would
+offer protection to an employee disclosing this information to others for
+carrying out the Sch 1 notice.
 
 As to whether someone from the list (local or remote employee, citizen or
 foreigner, employee or contractor or former employee or even hobbyist) could be
@@ -133,13 +144,22 @@ to the extent (if any) to which such a notice would require a designated
 communications provider to do an act or thing for which the agency would be
 required to have or obtain a warrant or authorisation under certain acts (see s
 317ZH). It’s slightly clunky drafting, but in general terms, the point of this
-provision is to make sure the agency gets a warrant which it then carries out
-using the Sch 1 notice.
+provision is to make sure the agency gets a warrant when it wants the
+designated communications provider to disclose information.
 
-That's fine for warrants, but authorisations are a little more tricky. For
+The agency might issue the Sch 1 notice to ensure it gets the "access and
+assistance" to enable the information described in the warrant to be delivered.
+What happens if the Sch 1 notice tells you to install software or equipment
+that gives the agency direct access to the information they want without asking
+the designated communications provider? It may be debatable but it looks like
+the agency won't need a warrant or authorization if they can get access the
+data without asking the designated communications provider.
+
+That’s fine for warrants, but authorisations are a little more tricky. For
 example, the metadata retention regime authorises certain agencies to request
-metadata without a warrant. There is an interesting (and alarming) example here
-that might illustrate the point.
+metadata without a warrant but require the agency (without going to a judicial
+officer) to get the metadata if they issue an authorisation. There is an
+interesting (and alarming) example here that might illustrate the point.
 
 It is easy to imagine that an agency might want the metadata of a leaker of
 sensitive government information, if they suspect the leaking breaks the law.
@@ -149,7 +169,7 @@ towards finding out the identity of the leaker, including against people that
 the leaker might be in contact with (ie people other than the target). This Sch
 1 notice could include things like installing malware on the phone of a
 journalist who might be publishing the leaks. In this example, the Sch 1 notice
-is being used to undermine a person's security who is not the target, pursuant
+is being used to undermine a person’s security who is not the target, pursuant
 to an authorisation.
 
 ---
@@ -217,23 +237,23 @@ about whether the Sch 1 notice is lawful.
 
 We note the following about who is authorised to give what:
 
-* Technical assistance notices must be given by the Director-General of
-Security or the chief officer of an interception agency. If the technical
-assistance notice is given by the chief officer of an interception agency, it
-must be approved by the Australian Federal Police Commissioner.
+* Technical assistance notices must be given the Director-General of Security or
+  the chief officer of an interception agency. If the technical assistance
+  notice is given by the chief officer of an interception agency, it must be
+  approved by the Australian Federal Police Commissioner.
 
 * Technical capability notices may only be given by the Attorney General, in
-accordance with a request made by the Director-General of Security or the chief
-officer of an interception agency. The Minister for Home Affairs must also
-approve the technical capability notice.
+  accordance with a request made by the Director-General of Security or the
+  chief officer of an interception agency. The Communications Minister must
+  also approve the technical capability notice.
 
-The Attorney General can probably delegate this authority, but there should be
-some indication that this has happened in the notice itself.
+* The Attorney General can probably delegate this authority, but there should
+  be some indication that this has happened in the notice itself.
 
-Prior to giving the technical capability notice, the Attorney General is
-required to consult the designated communications provider.  The provider may
-request that assessors be appointed to determine whether the notice should be
-given.
+* Prior to giving the technical capability notice, the Attorney General is
+  required to consult the designated communications provider.  The provider may
+  request that assessors be appointed to determine whether the notice should be
+  given.
 
 In general, Sch 1 notices must be in writing, except in certain circumstances,
 such as an imminent risk of serious harm or substantial damage to property, or
@@ -258,8 +278,8 @@ assistance notice and would be in breach of s 317ZF.
 
 There is clearly something of a logical loop here, in that it is somewhat
 tricky to clearly define what might be a disclosure about the non-existence of
-the notice or request. But the point of the provision appears to prevent the
-use of warrant canaries, and a court is therefore likely to interpret it in
+the notice or request. But the point of the provision appears to be to prevent
+the use of warrant canaries, and a court is therefore likely to interpret it in
 that way.
 
 For completeness, we also note that there are relevant provisions at s 317ZA
